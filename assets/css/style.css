@@ -32,6 +32,7 @@ p:last-child {
   margin-bottom: 0;
 }
 
+
 h1,
 h2,
 h3 {
@@ -201,6 +202,24 @@ h3, h2, h4 {
   min-width: 200px;
 }
 
+.portfolio {
+  padding-bottom: 20px;
+  font-size: 22px;
+  
+  
+  position: absolute;
+  bottom: 10px;
+  width: 100%;
+  padding: 5px;
+  margin-bottom: 0;
+  font-weight: 300;
+  line-height: 30px;
+  color: #fff;
+  text-align: center;
+  background: #4aaaa5;
+  border-bottom: 0;
+
+}
 /* contact page */
 
 
